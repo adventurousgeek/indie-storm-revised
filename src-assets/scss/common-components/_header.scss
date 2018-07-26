@@ -2,12 +2,33 @@
   position: absolute;
   width: 100%;
   padding-top: 63px;
+  z-index: 2;
   a.nav-link {
     color: $indie-gray !important;
+    font-size: 14px;
+    font-family: "TrimWebRegular", sans-serif !important;
+    &:hover {
+      color: white !important;
+      text-decoration: none;
+    }
+  }
+  .sign-up {
+    border-bottom: solid 2px #1af8d1;
+    &:hover{
+      border-bottom: solid 2px white;
+    }
+  }
+  ul {
+    li {
+      span {
+        color: #3a3f41;
+        font-size: 26px;
+      }
+    }
   }
   .container {
     .row {
-      .col-md-12 {
+      .col-xl-12 {
         .bg-light {
           background-color: transparent !important;
         }
@@ -15,8 +36,16 @@
     }
     .navbar-brand {
       img {
-        width: 50%;
+        width: 328px;
       }
     }
+  }
+  .icon-menu {
+    width: 40px;
+    height: 40px;
+    fill: #fff;
+  }
+  .navbar-light .navbar-toggler-icon {
+    background: none;
   }
 }

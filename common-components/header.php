@@ -21,15 +21,15 @@
 <header class="site-header">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xl-12">
                 <nav class="row navbar navbar-expand-lg navbar-light bg-light">
-                    <div class="col-md-5">
+                    <div class="col-xl-7 col-lg-6">
                         <a class="navbar-brand" href="#"><img src="assets/images/logo-head.png"></a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
+                            <span class="navbar-toggler-icon"><svg class="icon icon-menu"><use xlink:href="#icon-menu"></use></svg></span>
                         </button>
                     </div>
-                    <div class="collapse navbar-collapse col-md-7" id="navbarNav">
+                    <div class="collapse navbar-collapse col-xl-5 col-lg-6" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item active">
                                 <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
@@ -44,9 +44,12 @@
                                 <a class="nav-link" href="#">Roadmap</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">EN</a>
+                                <span>|</span>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="#">EN</a>
+                            </li>
+                            <li class="nav-item sign-up">
                                 <a class="nav-link" href="#">Login/Register</a>
                             </li>
                         </ul>
