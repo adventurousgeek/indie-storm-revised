@@ -655,6 +655,20 @@
         position: absolute;
         left: 0;
       }
+      .developers-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 40px;
+        height: 40px;
+      }
+      .streamers-icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 40px;
+        height: 40px;
+      }
     }
     h2, p {
       padding-left: 60px;
@@ -665,6 +679,20 @@
       img {
         left: auto;
         right: 0px;
+      }
+      .gamers-icon {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 40px;
+        height: 40px;
+      }
+      .viewers-icon {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 40px;
+        height: 40px;
       }
     }
     p {
@@ -716,6 +744,17 @@
         width: 294px;
         height: 172px;
       }
+      span {
+        position: relative;
+        padding-left: 20px;
+        .growth-icon {
+          position: absolute;
+          top: 6px;
+          left: 0;
+          width: 14px;
+          height: 14px;
+        }
+      }
     }
   }
   .col-xl-6 {
@@ -739,6 +778,10 @@
     }
     p {
       margin-bottom: 50px;
+    }
+    .watch-video-caligraphy {
+      width: 273px;
+      height: 92px;
     }
   }
 }
@@ -776,16 +819,10 @@
   }
   .token-distribution {
     margin-bottom: 128px;
-    .big-pie {
-      display: inline-block;
-      img {
-        width: 357px;
-      }
-    }
-    .small-pie {
-      display: inline-block;
-      img {
-        width: 260px;
+    .full-pie {
+      .pie-chart-graph {
+        width: 654px;
+        height: 247px;
       }
     }
     .col-xl-4 {
@@ -794,8 +831,9 @@
   }
   .road-map {
     .col-xl-12 {
-      img {
-        width: 100%;
+      svg {
+        width: 892px;
+        height: 211px;
       }
     }
   }

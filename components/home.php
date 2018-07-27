@@ -92,14 +92,14 @@
                 <div class="eco-icon">
 
                 </div>
-                <h2><img src="assets/images/developers-icn.png">FOR DEVELOPERS</h2>
+                <h2><svg class="developers-icon"><use xlink:href="#developers-icon"></use></svg>FOR DEVELOPERS</h2>
                 <p>You love games. We do too. You want a direct<br />
                     connection to developers, without the Corporate<br />
                     Commander getting in the way. Join us & take<br />
                     part in an entirely new way of gaming.</p>
             </div>
             <div class="col-xl-6">
-                <h2 class="text-right">FOR GAMERS<img src="assets/images/gamers-icn.png"></h2>
+                <h2 class="text-right"><svg class="gamers-icon"><use xlink:href="#gamers-icon"></use></svg>FOR GAMERS</h2>
                 <p class="text-right">We will provide you with completely open game<br />
                     projects, so you can get started right away!<br />
                     Use tools to gain the spotlight and the funding<br />
@@ -107,7 +107,7 @@
             </div>
 
             <div class="col-xl-6">
-                <h2><img src="assets/images/streamers-icn.png">FOR STREAMERS</h2>
+                <h2><svg class="streamers-icon"><use xlink:href="#streamers-icon"></use></svg>FOR STREAMERS</h2>
                 <p>Focus on your content, and stop<br />
                     worrying about monetization.<br />
                     Your fans love you. It’s time for a<br />
@@ -115,7 +115,7 @@
             </div>
 
             <div class="col-xl-6">
-                <h2 class="text-right">FOR VIEWERS<img src="assets/images/viewers-icn.png"></h2>
+                <h2 class="text-right">FOR VIEWERS<svg class="viewers-icon"><use xlink:href="#viewers-icon"></use></svg></h2>
                 <p class="text-right">Reach your core market with our<br />
                     easy-to-use and transparent system.<br />
                     We are cutting out the middleman,<br />
@@ -141,7 +141,7 @@
                     <svg class="gaming-stats-box"><use xlink:href="#gaming-stats-box"></use></svg>
                     <h1>2.5 billion</h1>
                     <p>Gamers play games on devices</p>
-                    <span>+3% growth in 2017</span>
+                    <span><svg class="growth-icon"><use xlink:href="#growth-icon"></use></svg>+3% growth in 2017</span>
                 </div>
             </div>
             <div class="col-xl-4">
@@ -149,7 +149,7 @@
                     <svg class="gaming-stats-box"><use xlink:href="#gaming-stats-box"></use></svg>
                     <h1>$3 billion</h1>
                     <p>Reached games market in 2017</p>
-                    <span>+8.2% growth in 2017</span>
+                    <span><svg class="growth-icon"><use xlink:href="#growth-icon"></use></svg>+8.2% growth in 2017</span>
                 </div>
             </div>
             <div class="col-xl-4">
@@ -157,7 +157,7 @@
                     <svg class="gaming-stats-box"><use xlink:href="#gaming-stats-box"></use></svg>
                     <h1>56,785</h1>
                     <p>New games released in 2017</p>
-                    <span>+15% growth in 2017</span>
+                    <span><svg class="growth-icon"><use xlink:href="#growth-icon"></use></svg>+15% growth in 2017</span>
                 </div>
             </div>
         </div>
@@ -174,7 +174,7 @@
                     you could integrate with ease into a live, analytica<br />
                     platform with deep player insights and new unique<br />
                     revenue generation models?</p>
-                <img class="play-icon" src="assets/images/play-icn.png">
+                <svg class="watch-video-caligraphy"><use xlink:href="#watch-video-caligraphy"></use></svg>
             </div>
         </div>
     </div>
@@ -206,15 +206,14 @@
                     Sale will be allocated.</p>
             </div>
             <div class="col-xl-8 text-right">
-                <div class="big-pie"><img src="assets/images/pie-big.png"></div>
-                <div class="small-pie"><img src="assets/images/pie-small.png"></div>
+                <div class="full-pie"><svg class="pie-chart-graph"><use xlink:href="#pie-chart"></use></svg></div>
             </div>
         </div>
         <div class="row road-map">
             <div class="col-xl-12 text-center">
                 <h1>ROADMAP</h1>
                 <p>Early contributors can receive up to 15% bonus</p>
-                <img src="assets/images/roadmap.png">
+                <svg class="road-map-svg"><use xlink:href="#road-map-svg"></use></svg>
             </div>
         </div>
     </div>

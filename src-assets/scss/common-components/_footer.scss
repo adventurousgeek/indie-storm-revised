@@ -57,6 +57,15 @@
       margin-bottom: 20px;
       line-height: 15px;
     }
+    .footer-mail-icon, .bitcoin-wallet-footer {
+      width: 40px;
+      height: 40px;
+    }
+    .document-download-icon {
+      width: 29px;
+      height: 38px;
+      margin-right: 12px;
+    }
     ul {
       margin-bottom: 0px;
     }
@@ -88,26 +97,66 @@
           margin-bottom: 15px;
           line-height: 15px;
           text-transform: uppercase;
+          margin-right: 22px;
         }
       }
     }
     .col-xl-4 {
       form {
         height: 80px;
+        position: relative;
+        .footer-subscription-border {
+          width: 256px;
+          height: 37px;
+          position: absolute;
+          top: 0;
+          right: -5px;
+        }
         .form-group {
           label {
             display: block;
           }
           .form-control {
+            border: none;
             width: 156px;
             display: inline-block;
             float: right;
+            background: transparent;
+            font-size: 13px;
+            padding-top: 8px;
+            font-style: italic;
           }
         }
         .btn {
           width: 89px;
           display: inline-block;
           float: right;
+          text-transform: uppercase;
+          background: transparent;
+          border: none;
+          font-size: 12px;
+          padding-top: 9px;
+        }
+      }
+      h2.connect-slack-join {
+        display: inline-block;
+      }
+      .join-slack {
+        width: 91px;
+        height: 37px;
+        font-size: 12px;
+        background: transparent;
+        text-transform: uppercase;
+        padding-right: 14px;
+        margin-left: 15px;
+        position: relative;
+        border: none;
+        .connect-slack-border {
+          position: absolute;
+          width: 91px;
+          height: 37px;
+          top: 0;
+          left: 0;
         }
       }
     }

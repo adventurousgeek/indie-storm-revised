@@ -49,32 +49,33 @@
                 <div class="col-xl-3">
                     <h2>Follow Us</h2>
                     <ul class="list-inline list-unstlyed">
-                        <li class="list-inline-item"><a href="#">Email</a></li>
-                        <li class="list-inline-item"><a href="#">Facebook</a></li>
-                        <li class="list-inline-item"><a href="#">LinkedIn</a></li>
-                        <li class="list-inline-item"><a href="#">Bitcoin</a></li>
-                        <li class="list-inline-item"><a href="#">Vimeo</a></li>
-                        <li class="list-inline-item"><a href="#">Wiki</a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#footer-mail-icon"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#footer-mail-icon"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#footer-mail-icon"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#bitcoin-wallet-footer"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#bitcoin-wallet-footer"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#bitcoin-wallet-footer"></use></svg></a></li>
                     </ul>
                 </div>
                 <div class="col-xl-3">
                     <h2>Documents</h2>
                     <ul class="list-unstyled">
-                        <li>Whitepaper</li>
-                        <li>One Pager</li>
-                        <li>Market Research</li>
+                        <li><svg class="document-download-icon"><use xlink:href="#document-download-icon"></use></svg>Whitepaper</li>
+                        <li><svg class="document-download-icon"><use xlink:href="#document-download-icon"></use></svg>One Pager</li>
+                        <li><svg class="document-download-icon"><use xlink:href="#document-download-icon"></use></svg>Market Research</li>
                     </ul>
                 </div>
                 <div class="col-xl-4 text-right">
                     <h2>Subscribe For Updates</h2>
                     <form>
-                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <svg class="footer-subscription-border"><use xlink:href="#footer-subscription-border"></use></svg>
+                        <button type="submit" class="btn btn-primary">Notify Me</button>
                         <div class="form-group">
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="email address">
                         </div>
                     </form>
 
-                    <h2>Join Our Slack</h2>
+                    <h2 class="connect-slack-join">Join Our Slack</h2><button type="submit" class="btn btn-primary join-slack"><svg class="connect-slack-border"><use xlink:href="#connect-slack-border"></use></svg>Connect</button>
 
                 </div>
             </div>
