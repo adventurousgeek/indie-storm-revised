@@ -24,27 +24,28 @@ gulp.task('scripts', function() {
 
         //----- Bootstrap Components ------------------
 
-        'src-assets/javascripts/bootstrap-components/alert.js',
-        'src-assets/javascripts/bootstrap-components/button.js',
-        'src-assets/javascripts/bootstrap-components/carousel.js',
+        //'src-assets/javascripts/bootstrap-components/alert.js',
+        //'src-assets/javascripts/bootstrap-components/button.js',
+        //'src-assets/javascripts/bootstrap-components/carousel.js',
         'src-assets/javascripts/bootstrap-components/collapse.js',
-        'src-assets/javascripts/bootstrap-components/dropdown.js',
-        'src-assets/javascripts/bootstrap-components/modal.js',
-        'src-assets/javascripts/bootstrap-components/popover.js',
-        'src-assets/javascripts/bootstrap-components/scrollspy.js',
-        'src-assets/javascripts/bootstrap-components/tab.js',
-        'src-assets/javascripts/bootstrap-components/tooltip.js',
+        //'src-assets/javascripts/bootstrap-components/dropdown.js',
+        //'src-assets/javascripts/bootstrap-components/modal.js',
+        //'src-assets/javascripts/bootstrap-components/popover.js',
+        //'src-assets/javascripts/bootstrap-components/scrollspy.js',
+        //'src-assets/javascripts/bootstrap-components/tab.js',
+        //'src-assets/javascripts/bootstrap-components/tooltip.js',
         'src-assets/javascripts/bootstrap-components/util.js',
+        //'src-assets/javascripts/bootstrap-components/index.js',
 
 
 
         //----- Bootstrap Components Ends ------------------
 
         //Common Components
-        'src-assets/javascripts/common-components/global.js',
+        //'src-assets/javascripts/common-components/global.js',
 
         //Components
-        'src-assets/javascripts/components/home.js',
+        //'src-assets/javascripts/components/home.js',
 
     ])
         .pipe(concat('scripts.js'))

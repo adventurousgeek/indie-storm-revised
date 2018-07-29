@@ -30,3 +30,213 @@ $indie-cyan:    #1af8d1 !default;
 .light-color {
   color: white;
 }
+video::-webkit-media-controls-enclosure {
+  display:none !important;
+}
+
+@media (max-width: 991.98px) {
+  .gaming-experience .col-xl-6 img.imac {
+    position: relative !important;
+    max-width: 100%;
+  }
+  .token-details .road-map .col-xl-12 svg {
+    max-width: 100% !important;
+  }
+  .token-details .token-distribution .full-pie .pie-chart-graph {
+    max-width: 100% !important;
+  }
+  .what-is .container .row .col-xl-12 .coin-what-is img {
+    max-width: 100%;
+  }
+  .eco-system .indie-storm-eco-system img {
+    position: relative !important;
+  }
+  .mast-head .glitch .glitch__title {
+    font-size: 36px !important;
+  }
+  .mast-head .col-xl-12 h1 {
+    line-height: 36px !important;
+  }
+  .site-header .container .navbar-brand img {
+    width: 170px !important;
+  }
+  .mast-head .col-xl-4 .btn-primary {
+    margin-bottom: 22px !important;
+  }
+  .video-front-infographic, .video-back-infographic, .video-right-infographic, .video-left-infographic, .info-graphic-ecosystem {
+    display: none !important;
+  }
+  .mast-head .wrapper-counter {
+    float: none !important;
+    margin: auto;
+  }
+  .navbar-nav {
+    background: #16222b;
+    margin-top: 13px;
+  }
+  .site-header ul li span {
+    display: none;
+  }
+  .site-header a.nav-link {
+    padding-left: 20px;
+    border-bottom: solid 1px #1af8d1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .site-header .sign-up {
+    border-bottom: none !important;
+  }
+  .what-is .container .row .col-xl-12 .coin-what-is img {
+    position: relative !important;
+    width: 100% !important;
+  }
+  .what-is .coin-what-is {
+    max-width: 429px;
+    margin: auto;
+  }
+  .what-is .container .row .col-xl-12 h1 {
+    text-align: left !important;
+  }
+  .what-is .container .row .col-xl-12 {
+    margin-bottom: 0px !important;
+  }
+  .smart-contracts-icon, .indie-blockchain-icon, .pp-network-icon, .consensus-protocol-icon {
+    display: none;
+  }
+  .what-is .container .row .col-xl-12 ul .first-inline:first-child {
+    margin-bottom: 20px !important;
+  }
+  .what-is .container .row .col-xl-12 ul .first-inline {
+    text-align: left !important;
+    padding-right: 0 !important;
+    padding-left: 67px !important;
+  }
+  .what-is .container .row .col-xl-12 ul li {
+    display: block;
+    width: 100%;
+  }
+  .what-is .container .row .col-xl-12 ul .second-inline {
+    padding-left: 67px !important;
+  }
+  .what-is .container .row .col-xl-12 ul {
+    padding-top: 82px !important;
+    margin-bottom: 0px !important;
+  }
+  .consensus-protocol-icon-mobile, .indie-blockchain-icon-mobile, .pp-network-icon-mobile, .smart-contracts-icon-mobile {
+    display: block !important;
+  }
+  .what-is .container .row .col-xl-12 ul li {
+    width: 100% !important;
+    margin-bottom: 20px !important;
+  }
+  .what-is .container .row .col-xl-4 .col-4-what-is-wrapper {
+    width: 100% !important;
+  }
+  .what-is .container .row p {
+    text-align: left !important;
+    margin-bottom: 33px !important;
+  }
+  .what-is .container .row h2 {
+    text-align: left !important;
+  }
+  .eco-system .col-xl-6 .eco-system-col-6 {
+    max-width: 100% !important;
+    h2, p {
+      text-align: left !important;
+      padding-left: 60px !important;
+      padding-right: 0px !important;
+      .gamers-icon, .viewers-icon {
+        left: 0 !important;
+      }
+    }
+  }
+  .eco-system .indie-storm-eco-system .logo-eco-system {
+    width: 130px !important;
+  }
+  .eco-system .indie-storm-eco-system .logo-eco-system img {
+    top: 10px !important;
+    width: 130px !important;
+  }
+  .infographic-svg-layer img {
+    display: block !important;
+    width: 100% !important;
+  }
+  .eco-system .infographic-svg-layer .info-graphic-ecosystem {
+    display: none !important;
+  }
+  .eco-system .infographic-svg-layer {
+    height: auto !important;
+    width: auto !important;
+  }
+  .eco-system .col-xl-12 img {
+    margin-top: 0px !important;
+  }
+  .gaming-experience .col-xl-4 .wrapper-gaming .gaming-stats-box {
+    left: 0px !important;
+  }
+  .gaming-experience .col-xl-4 .wrapper-gaming {
+    position: relative !important;
+    margin: auto !important;
+    margin-bottom: 73px !important;
+    width: 284px !important;
+    padding: 26px 28px 14px 43px !important;
+  }
+  .gaming-experience .col-xl-6 img.imac {
+    top: 0 !important;
+    margin-bottom: 50px !important;
+  }
+  .gaming-experience .col-xl-6 p {
+    width: 100% !important;
+  }
+  .token-details .col-xl-12 p {
+    text-align: left !important;
+    width: 100% !important;
+  }
+  .token-details .col-xl-12 h1.light-color {
+    text-align: left !important;
+  }
+  .token-details h1 {
+    text-align: left !important;
+  }
+  .token-details p {
+    text-align: left !important;
+  }
+  .token-details .token-value {
+    margin-bottom: 49px !important;
+  }
+  .token-details .token-distribution {
+    margin-bottom:49px !important;
+  }
+  .token-details {
+    padding-bottom: 49px !important;
+  }
+  .site-footer .post-footer ul {
+    margin-bottom: 49px !important;
+  }
+  .site-footer .post-footer h2 {
+    text-align: left !important;
+  }
+  .site-footer .post-footer .col-xl-4 form .footer-subscription-border {
+    left: 0 !important;
+  }
+  .site-footer .post-footer .col-xl-4 form .form-group .form-control {
+    padding-left: 30px !important;
+    float: left !important;
+  }
+  .site-footer .post-footer .col-xl-4 form .btn {
+    left: 160px !important;
+    float: none !important;
+    position: absolute !important;
+  }
+  .site-footer .post-footer .col-xl-4 h2.connect-slack-join {
+    float: left !important;
+    line-height: 42px !important;
+  }
+  .site-footer .post-footer .col-xl-4 .join-slack {
+    float: left !important;
+  }
+  .mast-head .col-xl-6 .wrapper-main-buttons {
+    margin: auto !important;
+    margin-bottom: 36px !important;
+  }
+}

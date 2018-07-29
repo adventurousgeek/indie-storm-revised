@@ -3,6 +3,26 @@
   width: 100%;
   padding-top: 63px;
   z-index: 2;
+  nav {
+    padding-right: 0;
+    .row {
+      width: 100%;
+      .col-lg-6 {
+        padding-right: 0;
+        .collapse {
+          max-width: 419px;
+          float: right;
+        }
+      }
+      .navbar-toggler {
+        float: right;
+        padding: 0;
+        &:focus {
+          border: none;
+        }
+      }
+    }
+  }
   a.nav-link {
     color: $indie-gray !important;
     font-size: 14px;
