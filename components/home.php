@@ -1,4 +1,12 @@
 <section class="mast-head">
+    <svg name="onlyGlitchPurpose" style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg-sprite">
+        <defs>
+            <filter id="filter">
+                <feTurbulence type="fractalNoise" baseFrequency="0.000001 0.000001" numOctaves="1" result="warp" seed="1"></feTurbulence>
+                <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warp"></feDisplacementMap>
+            </filter>
+        </defs>
+    </svg>
     <div class="glitch">
         <div class="glitch__item"></div>
         <div class="glitch__item"></div>
@@ -11,9 +19,10 @@
                 <div class="col-xl-12">
                     <h1>The Next Generation Digital Distribution Platform</h1>
                     <div class="wrapper"><p>with a groundbreaking motivational and referral system, offering both gamers and developers various opportunities to increase their income</p></div>
-                    <button type="submit" class="btn btn-primary">
+                    <button type="submit" class="btn btn-primary btn-glitch">
                         <svg class="mast-head-button-border"><use xlink:href="#mast-head-button"></use></svg>Learn More
                     </button>
+                    
                     <ul class="list-inline list-unstyled social-mast-head">
                         <li class="list-inline-item"><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
                         <li class="list-inline-item"><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
@@ -28,9 +37,9 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="wrapper-main-buttons">
                         <p>Downloadable Resources</p>
-                        <button type="button" class="btn btn-primary"><svg class="icon-mast-head-download"><use xlink:href="#mast-head-download"></use></svg>White<br />Paper</button>
-                        <button type="button" class="btn btn-primary"><svg class="icon-mast-head-download"><use xlink:href="#mast-head-download"></use></svg>One<br />Pager</button>
-                        <button type="button" class="btn btn-primary"><svg class="icon-mast-head-download"><use xlink:href="#mast-head-download"></use></svg>Market<br />Research</button>
+                        <button type="button" class="btn btn-primary btn-glitch"><svg class="icon-mast-head-download"><use xlink:href="#mast-head-download"></use></svg>White<br />Paper</button>
+                        <button type="button" class="btn btn-primary btn-glitch"><svg class="icon-mast-head-download"><use xlink:href="#mast-head-download"></use></svg>One<br />Pager</button>
+                        <button type="button" class="btn btn-primary btn-glitch"><svg class="icon-mast-head-download"><use xlink:href="#mast-head-download"></use></svg>Market<br />Research</button>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 counter-timer">

@@ -14,11 +14,11 @@
             echo $css;
         ?>
     </style>
-    <script>
+    /* <script>
         $( window ).load(function() {
             $( '.video-element' ).get(0).play();
         });
-    </script>
+    </script> */
 </head>
 <body>
 <?php require_once "svg-icons.php"; ?>
