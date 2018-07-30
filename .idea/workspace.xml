@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fcad89-8549-4204-a7b8-6cf85cf843de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-components/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-components/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-components/svg-icons.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-components/svg-icons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/components/home.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1448">
-              <caret line="132" column="73" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="73" />
+              <caret line="141" column="73" selection-start-line="141" selection-start-column="45" selection-end-line="141" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -679,7 +676,7 @@
     <entry file="file://$PROJECT_DIR$/components/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1448">
-          <caret line="132" column="73" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="73" />
+          <caret line="141" column="73" selection-start-line="141" selection-start-column="45" selection-end-line="141" selection-end-column="73" />
         </state>
       </provider>
     </entry>
