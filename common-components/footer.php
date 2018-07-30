@@ -50,10 +50,10 @@
                     <h2>Follow Us</h2>
                     <ul class="list-inline list-unstlyed">
                         <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#footer-mail-icon"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#footer-mail-icon"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#footer-mail-icon"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#bitcoin-wallet-footer"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#bitcoin-wallet-footer"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#facebook-icon-mobile"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="footer-mail-icon"><use xlink:href="#linkedin-asset-mobile"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#medium-mobile-icon"></use></svg></a></li>
+                        <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#vk-mobile-icon"></use></svg></a></li>
                         <li class="list-inline-item"><a href="#"><svg class="bitcoin-wallet-footer"><use xlink:href="#bitcoin-wallet-footer"></use></svg></a></li>
                     </ul>
                 </div>
