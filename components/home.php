@@ -37,10 +37,10 @@
                     <div class="wrapper-counter">
                         <p>Pre-Sale Begins In</p>
                         <ul class="list-inline list-unstyled">
-                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg>59<span>Days</span></li>
-                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg>23<span>Hrs</span></li>
-                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg>35<span>Mins</span></li>
-                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg>26<span>Secs</span></li>
+                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg><div id="days"></div></li>
+                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg><div id="hours"></div></li>
+                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg><div id="minutes"></div></li>
+                            <li class="list-inline-item"><svg class="counter-box-border"><use xlink:href="#counter-box"></use></svg><div id="seconds"></div></li>
                         </ul>
                     </div>
                 </div>
