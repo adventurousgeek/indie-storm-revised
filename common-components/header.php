@@ -14,11 +14,6 @@
             echo $css;
         ?>
     </style>
-    /* <script>
-        $( window ).load(function() {
-            $( '.video-element' ).get(0).play();
-        });
-    </script> */
 </head>
 <body>
 <?php require_once "svg-icons.php"; ?>
