@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fcad89-8549-4204-a7b8-6cf85cf843de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-components/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-components/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common-components/svg-icons.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-components/svg-icons.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src-assets/scss/common-components/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src-assets/scss/common-components/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src-assets/scss/common-components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src-assets/scss/common-components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src-assets/scss/common-components/_globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src-assets/scss/common-components/_globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,8 +52,8 @@
       <file leaf-file-name="_footer.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src-assets/scss/common-components/_footer.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="174" column="21" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
+            <state relative-caret-position="86">
+              <caret line="158" column="25" lean-forward="true" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -351,16 +345,15 @@
       <workItem from="1533012948149" duration="1754000" />
       <workItem from="1533015306228" duration="1796000" />
       <workItem from="1533017250016" duration="1793000" />
-      <workItem from="1533019056164" duration="747000" />
+      <workItem from="1533019056164" duration="1946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112428000" />
+    <option name="totallyTimeSpent" value="113627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -700,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src-assets/scss/common-components/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="174" column="21" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
+        <state relative-caret-position="86">
+          <caret line="158" column="25" lean-forward="true" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
         </state>
       </provider>
     </entry>
