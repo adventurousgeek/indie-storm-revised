@@ -46,10 +46,11 @@
 
   }
   .post-footer {
-    background-color: #16222b;
+    background: #16222b;
     padding-top: 86px;
     padding-bottom: 55px;
     color: $indie-gray;
+    overflow: hidden;
     h2 {
       font-size: 15px;
       font-family: TrimWebLight,sans-serif !important;
@@ -109,6 +110,21 @@
       }
     }
     .col-xl-4 {
+      position: relative;
+      .footer-last-wrapper {
+        position: absolute;
+        top: 0;
+        right: 0;
+        .footer-background-logo {
+          width: 366px;
+          position: absolute;
+          top: -166px;
+          left: -49px;
+          height: 361px;
+          opacity: 0.5;
+          z-index: 0;
+        }
+      }
       form {
         height: 80px;
         position: relative;
@@ -120,8 +136,21 @@
           right: -5px;
         }
         .form-group {
+          position: absolute;
+          right: 84px;
+          top: 0px;
+          z-index: 1;
+          &:active {
+            box-shadow: none;
+          }
+          &:focus {
+            box-shadow: none;
+          }
           label {
             display: block;
+          }
+          input {
+            box-shadow: none;
           }
           .form-control {
             border: none;
@@ -143,6 +172,7 @@
           border: none;
           font-size: 12px;
           padding-top: 9px;
+          z-index: 1;
         }
       }
       h2.connect-slack-join {
@@ -158,6 +188,14 @@
         margin-left: 15px;
         position: relative;
         border: none;
+        z-index: 1;
+        &:active {
+          background: transparent;
+          box-shadow: none !important;
+        }
+        &:focus {
+          box-shadow: none;
+        }
         .connect-slack-border {
           position: absolute;
           width: 91px;
