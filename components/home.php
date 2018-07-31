@@ -168,6 +168,11 @@
         </div>
         <div class="row infographic-svg-layer">
             <div class="col-xl-12 text-center">
+                <h2 class="streamer-eco">Streamer</h2>
+                <h2 class="viewer-eco">Viewer</h2>
+                <h2 class="developer-eco">Developer</h2>
+                <h2 class="gamer-eco">Gamer</h2>
+                <h2></h2>
                 <img src="assets/images/infographic.png">
                 <svg class="info-graphic-ecosystem"><use xlink:href="#info-graphic-ecosystem"></use></svg>
             </div>
@@ -211,7 +216,7 @@
                 <h1>THE WORLD'S GAMING EXPERIENCE</h1>
                 <h2>REDEFINING GAMING FOR EVERYONE</h2>
                 <p>Imagine a gaming community that is so collaborative, interactive; alive, you as a player can create and shape your own destiny and wealth. What if, as a developer you could integrate with ease into a live, analytica platform with deep player insights and new unique revenue generation models?</p>
-                <svg class="watch-video-caligraphy btn-glitch"><use xlink:href="#watch-video-caligraphy"></use></svg>
+                <a href="#"><svg class="watch-video-caligraphy btn-glitch"><use xlink:href="#watch-video-caligraphy"></use></svg></a>
             </div>
         </div>
     </div>

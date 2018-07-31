@@ -97,7 +97,7 @@
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js'></script>
 <script async src="assets/js/scripts.js"></script>
-<script async src="src-assets/javascripts/components/home.js"></script>
+<!-- <script async src="src-assets/javascripts/components/home.js"></script> -->
 </body>
 </html>
 
