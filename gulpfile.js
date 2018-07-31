@@ -45,7 +45,7 @@ gulp.task('scripts', function() {
         //'src-assets/javascripts/common-components/global.js',
 
         //Components
-        'src-assets/javascripts/components/home.js',
+        //'src-assets/javascripts/components/home.js',
 
     ])
         .pipe(concat('scripts.js'))

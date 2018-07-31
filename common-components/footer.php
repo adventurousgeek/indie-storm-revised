@@ -70,9 +70,9 @@
                         <h2>Subscribe For Updates</h2>
                         <form>
                             <svg class="footer-subscription-border"><use xlink:href="#footer-subscription-border"></use></svg>
-                            <button type="submit" class="btn btn-primary btn-glitch">Notify Me</button>
+                            <button id="subs_btn" type="button" class="btn btn-primary btn-glitch">Notify Me</button>
                             <div class="form-group">
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="email address">
+                                <input id="txtsubsemail" type="email" class="form-control" aria-describedby="emailHelp" placeholder="email@company.com">
                             </div>
                         </form>
 
@@ -97,7 +97,7 @@
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js'></script>
 <script async src="assets/js/scripts.js"></script>
-<!-- <script async src="src-assets/javascripts/components/home.js"></script> -->
+<script async src="src-assets/javascripts/components/home.js"></script>
 </body>
 </html>
 

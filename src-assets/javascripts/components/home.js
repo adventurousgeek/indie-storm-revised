@@ -1,3 +1,19 @@
+$(document).ready(function(){
+    $('#subs_btn').click(function(){
+      debugger;
+      var clickBtnValue = $(this).val();
+      var ajaxurl = 'subs.php',
+      data =  {'action': 'subs', 'email': $("#txtsubsemail").val()};
+      $.post(ajaxurl, data, function (response) {
+          // Response div goes here.
+          $("#txtsubsemail").val('');
+          $("#txtsubsemail").attr("placeholder", "Subscribed Successfully");
+          //alert("action performed successfully");
+      });
+    });
+  });
+
+
 function makeTimer() {
 
     var endTime = new Date("14 Aug 2018 9:56:00 GMT+01:00");			
