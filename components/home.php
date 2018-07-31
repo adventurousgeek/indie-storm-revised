@@ -24,12 +24,12 @@
                     </button>
                     
                     <ul class="list-inline list-unstyled social-mast-head">
-                        <li class="list-inline-item"><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="icon icon-telegram-icon"><use xlink:href="#telegram-icon"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="icon icon-bitcoin-talk"><use xlink:href="#bitcoin-talk"></use></svg></a></li>
-                        <li class="list-inline-item"><a href="#"><svg class="icon icon-reddit"><use xlink:href="#reddit-icon"></use></svg></a></li>
+                        <li class="list-inline-item btn-glitch"><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+                        <li class="list-inline-item btn-glitch"><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+                        <li class="list-inline-item btn-glitch"><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+                        <li class="list-inline-item btn-glitch"><a href="#"><svg class="icon icon-telegram-icon"><use xlink:href="#telegram-icon"></use></svg></a></li>
+                        <li class="list-inline-item btn-glitch"><a href="#"><svg class="icon icon-bitcoin-talk"><use xlink:href="#bitcoin-talk"></use></svg></a></li>
+                        <li class="list-inline-item btn-glitch"><a href="#"><svg class="icon icon-reddit"><use xlink:href="#reddit-icon"></use></svg></a></li>
                     </ul>
                 </div>
             </div>
@@ -211,7 +211,7 @@
                 <h1>THE WORLD'S GAMING EXPERIENCE</h1>
                 <h2>REDEFINING GAMING FOR EVERYONE</h2>
                 <p>Imagine a gaming community that is so collaborative, interactive; alive, you as a player can create and shape your own destiny and wealth. What if, as a developer you could integrate with ease into a live, analytica platform with deep player insights and new unique revenue generation models?</p>
-                <svg class="watch-video-caligraphy"><use xlink:href="#watch-video-caligraphy"></use></svg>
+                <svg class="watch-video-caligraphy btn-glitch"><use xlink:href="#watch-video-caligraphy"></use></svg>
             </div>
         </div>
     </div>
