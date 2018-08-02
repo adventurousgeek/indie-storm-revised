@@ -10,7 +10,7 @@
                         <li class="list-inline-item"><a href="#">Donec in magna fermentum neque<br />finibus tristique. Aenean condimentum?</a></li>
                         <li class="list-inline-item"><a href="#">Aliquam massa enim, dignissim ut nisi a,<br />tincidunt fermentum turpis?</a></li>
                     </ul>
-                    <a href="#">View All</a>
+                    <a href="#" class="btn-glitch">View All</a>
                 </div>
                 <div class="col-xl-4 col-lg-4">
                     <h2>DEVELOPERS FAQ</h2>
